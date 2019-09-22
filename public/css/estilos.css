@@ -1,0 +1,189 @@
+.btn-excel-xlsx { 
+color: #ffffff; 
+background-color: #12BA34; 
+border-color: #035910; 
+} 
+
+.btn-excel-xlsx:hover, 
+.btn-excel-xlsx:focus, 
+.btn-excel-xlsx:active, 
+.btn-excel-xlsx.active, 
+.open .dropdown-toggle.btn-excel-xlsx { 
+color: #ffffff; 
+background-color: #0E8A20; 
+border-color: #035910; 
+} 
+
+.btn-excel-xlsx:active, 
+.btn-excel-xlsx.active, 
+.open .dropdown-toggle.btn-excel-xlsx { 
+background-image: none; 
+} 
+
+.btn-excel-xlsx.disabled, 
+.btn-excel-xlsx[disabled], 
+fieldset[disabled] .btn-excel-xlsx, 
+.btn-excel-xlsx.disabled:hover, 
+.btn-excel-xlsx[disabled]:hover, 
+fieldset[disabled] .btn-excel-xlsx:hover, 
+.btn-excel-xlsx.disabled:focus, 
+.btn-excel-xlsx[disabled]:focus, 
+fieldset[disabled] .btn-excel-xlsx:focus, 
+.btn-excel-xlsx.disabled:active, 
+.btn-excel-xlsx[disabled]:active, 
+fieldset[disabled] .btn-excel-xlsx:active, 
+.btn-excel-xlsx.disabled.active, 
+.btn-excel-xlsx[disabled].active, 
+fieldset[disabled] .btn-excel-xlsx.active { 
+background-color: #12BA34; 
+border-color: #035910; 
+} 
+
+.btn-excel-xlsx .badge { 
+color: #12BA34; 
+background-color: #ffffff; 
+}
+
+.btn-excel-xls { 
+color: #ffffff; 
+background-color: #0B8723; 
+border-color: #06400F; 
+} 
+
+.btn-excel-xls:hover, 
+.btn-excel-xls:focus, 
+.btn-excel-xls:active, 
+.btn-excel-xls.active, 
+.open .dropdown-toggle.btn-excel-xls { 
+color: #ffffff; 
+background-color: #095C15; 
+border-color: #06400F; 
+} 
+
+.btn-excel-xls:active, 
+.btn-excel-xls.active, 
+.open .dropdown-toggle.btn-excel-xls { 
+background-image: none; 
+} 
+
+.btn-excel-xls.disabled, 
+.btn-excel-xls[disabled], 
+fieldset[disabled] .btn-excel-xls, 
+.btn-excel-xls.disabled:hover, 
+.btn-excel-xls[disabled]:hover, 
+fieldset[disabled] .btn-excel-xls:hover, 
+.btn-excel-xls.disabled:focus, 
+.btn-excel-xls[disabled]:focus, 
+fieldset[disabled] .btn-excel-xls:focus, 
+.btn-excel-xls.disabled:active, 
+.btn-excel-xls[disabled]:active, 
+fieldset[disabled] .btn-excel-xls:active, 
+.btn-excel-xls.disabled.active, 
+.btn-excel-xls[disabled].active, 
+fieldset[disabled] .btn-excel-xls.active { 
+background-color: #0B8723; 
+border-color: #06400F; 
+} 
+
+.btn-excel-xls .badge { 
+color: #0B8723; 
+background-color: #ffffff; 
+}
+
+.btn-txt { 
+	color: #000000; 
+	background-color: #E6E6E6; 
+	border-color: #8C8C8C; 
+  } 
+   
+  .btn-txt:hover, 
+  .btn-txt:focus, 
+  .btn-txt:active, 
+  .btn-txt.active, 
+  .open .dropdown-toggle.btn-txt { 
+	color: #000000; 
+	background-color: #C4CCC5; 
+	border-color: #8C8C8C; 
+  } 
+   
+  .btn-txt:active, 
+  .btn-txt.active, 
+  .open .dropdown-toggle.btn-txt { 
+	background-image: none; 
+  } 
+   
+  .btn-txt.disabled, 
+  .btn-txt[disabled], 
+  fieldset[disabled] .btn-txt, 
+  .btn-txt.disabled:hover, 
+  .btn-txt[disabled]:hover, 
+  fieldset[disabled] .btn-txt:hover, 
+  .btn-txt.disabled:focus, 
+  .btn-txt[disabled]:focus, 
+  fieldset[disabled] .btn-txt:focus, 
+  .btn-txt.disabled:active, 
+  .btn-txt[disabled]:active, 
+  fieldset[disabled] .btn-txt:active, 
+  .btn-txt.disabled.active, 
+  .btn-txt[disabled].active, 
+  fieldset[disabled] .btn-txt.active { 
+	background-color: #E6E6E6; 
+	border-color: #8C8C8C; 
+  } 
+   
+  .btn-txt .badge { 
+	color: #E6E6E6; 
+	background-color: #000000; 
+  }
+
+
+	.my-group .form-control{
+    /* width:50%; */
+}
+
+.btn-descarga { 
+  color: #FFF; 
+  background-color: #918B23; 
+	border-color: #756513; 
+	box-shadow: 0px 2px 6px 1px rgba(0, 0, 0, 0.56);
+} 
+ 
+.btn-descarga:hover, 
+.btn-descarga:focus, 
+.btn-descarga:active, 
+.btn-descarga.active, 
+.open .dropdown-toggle.btn-descarga { 
+  color: #FFF; 
+  background-color: #756E22; 
+  border-color: #756513; 
+} 
+ 
+.btn-descarga:active, 
+.btn-descarga.active, 
+.open .dropdown-toggle.btn-descarga { 
+  background-image: none; 
+} 
+ 
+.btn-descarga.disabled, 
+.btn-descarga[disabled], 
+fieldset[disabled] .btn-descarga, 
+.btn-descarga.disabled:hover, 
+.btn-descarga[disabled]:hover, 
+fieldset[disabled] .btn-descarga:hover, 
+.btn-descarga.disabled:focus, 
+.btn-descarga[disabled]:focus, 
+fieldset[disabled] .btn-descarga:focus, 
+.btn-descarga.disabled:active, 
+.btn-descarga[disabled]:active, 
+fieldset[disabled] .btn-descarga:active, 
+.btn-descarga.disabled.active, 
+.btn-descarga[disabled].active, 
+fieldset[disabled] .btn-descarga.active { 
+  background-color: #918B23; 
+  border-color: #756513; 
+} 
+ 
+.btn-descarga .badge { 
+  color: #918B23; 
+  background-color: #FFF; 
+}

@@ -28,6 +28,12 @@ class Layout
 	 * @var string
 	 */
 	public $css			= '';
+
+	/**
+	 * Archivos CSS para insertar en el layout
+	 * @var string
+	 */
+	public $less			= '';
 /**
 	 * Variables para mejorar el SEO del sitio
 	 * @var sting
@@ -144,5 +150,17 @@ public function setTitle($title)
 	{
 		foreach ( $archivos as $archivo )
 			$this->css .= "<link type=\"text/css\" rel=\"stylesheet\" href=\"{$archivo}\" />\n";
+	}
+
+	/**
+	 * Captura y formatea los archivos LESS para insertar a la vista
+	 *
+	 * @param	array		$archivos		Arreglo de archivos
+	 */
+
+	public function less($archivos = array())
+	{
+		foreach ( $archivos as $archivo )
+			$this->less .= "<link type=\"text/css\" rel=\"stylesheet/less\" href=\"{$archivo}\" />\n";
 	}
 }
